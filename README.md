@@ -1,4 +1,4 @@
-<img align="centre" alt="Coding" width="950" height="450"  src="https://img.freepik.com/free-vector/futuristic-background-computer-gamer_23-2148222498.jpg?t=st=1717317503~exp=1717321103~hmac=b03b72aa5e2c741fe2d493888947e437ee34e98fbb87c2377c6c90c9ad4e82f4&w=1060">
+<img align="centre" alt="Coding" width="900" height="400"  src="https://img.freepik.com/free-vector/futuristic-background-computer-gamer_23-2148222498.jpg?t=st=1717317503~exp=1717321103~hmac=b03b72aa5e2c741fe2d493888947e437ee34e98fbb87c2377c6c90c9ad4e82f4&w=1060">
 <h1 align="center">Hi 👋, I'm Kartik Vora</h1>
 <h3 align="center">I'm a passionate software developer with a keen interest in web development and product management. I love building innovative projects and collaborating with others to solve real-world problems.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikvora582&label=Profile%20views&color=0e75b6&style=flat" alt="kartikvora582"/> </p>
